@@ -22,8 +22,9 @@ The program supports two communication modes:
 
 ```bash
 make
-
+```
 ## Running the program
 
 ```bash
 mpirun -n 2 ./game
+```
