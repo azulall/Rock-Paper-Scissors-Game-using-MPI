@@ -28,3 +28,9 @@ make
 ```bash
 mpirun -n 2 ./game
 ```
+Select the mode:
+
+0 → Point-to-Point
+1 → Collective 
+
+And, then rock paper scissors game starts.
